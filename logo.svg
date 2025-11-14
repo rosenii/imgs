@@ -22,7 +22,7 @@
   </g>
 
   <!-- 右侧文字 -->
-  <text x="800" y="442" font-family="Helvetica, Arial, sans-serif" font-size="240" font-weight="500" fill="#4A90E2" text-anchor="start" alignment-baseline="middle" transform="skewX(-5)">
+  <text x="800" y="441" font-family="Helvetica, Arial, sans-serif" font-size="240" font-weight="500" fill="#4A90E2" text-anchor="start" alignment-baseline="middle" transform="skewX(-5)">
     Lの小世界
   </text>
 </svg>
