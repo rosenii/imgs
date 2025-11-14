@@ -17,7 +17,7 @@
     <circle cx="630" cy="300" r="24" fill="white" opacity="0.9"/>
 
     <!-- 右侧文字 -->
-    <text x="750" y="390" font-family="Helvetica, Arial, sans-serif" font-size="240" font-weight="500" fill="#4A90E2" text-anchor="start" alignment-baseline="middle" transform="skewX(-5)">
+    <text x="750" y="375" font-family="Helvetica, Arial, sans-serif" font-size="240" font-weight="500" fill="#4A90E2" text-anchor="start" alignment-baseline="middle" transform="skewX(-5)">
       Lの小世界
     </text>
   </g>
